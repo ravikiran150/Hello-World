@@ -1,0 +1,8 @@
+* 23 december 2016
+** Report
+- 9:00 A.M to 6:00 P.M
+ + Learned emacs,github and bitbucket.
+ + Prepared attendance reports from RFID system.
+ + Assets entry in portal.
+ + Issued RFID card to security.
+ 
